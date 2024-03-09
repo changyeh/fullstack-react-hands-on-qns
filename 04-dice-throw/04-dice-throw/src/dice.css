@@ -1,0 +1,11 @@
+.dice {
+    display: block;
+    width: 70px; 
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    padding: 28px;
+}
+.roll{
+    float: left;
+    margin: 10px;
+}
